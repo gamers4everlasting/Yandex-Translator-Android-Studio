@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Text Translator</string>
+    <string name="select">Select Language</string>
+    <string-array name="lang">
+
+        <item>en</item>
+        <item>de</item>
+        <item>ru</item>
+        <item>ky</item>
+        <item>zh </item>
+        <item>fa</item>
+        <item>he</item>
+        <item>it</item>
+        <item>tr</item>
+        <item>kk</item>
+        <item>uk</item>
+        <item>ja</item>
+
+    </string-array>
+</resources>
